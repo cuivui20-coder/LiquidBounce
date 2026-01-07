@@ -208,7 +208,7 @@ dependencies {
     includeDependency("org.ahocorasick:ahocorasick:0.6.3")
 
     // Test libraries
-    testImplementation("org.junit.jupiter:junit-jupiter:6.0.0")
+    testImplementation("org.junit.jupiter:junit-jupiter:6.0.2")
     testImplementation("org.jetbrains.kotlin:kotlin-test")
     testImplementation("org.jetbrains.kotlin:kotlin-test-junit5")
     testRuntimeOnly("org.junit.platform:junit-platform-launcher")
